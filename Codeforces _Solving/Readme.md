@@ -179,3 +179,154 @@ Progress: **8 / 123**
 - [ ] Forming Triangles
 - [ ] Binary Search
 - [ ] Inaccurate Subsequence Search
+# Section 2 - Intermediate
+
+## Advanced Maths
+
+### Combinatorics
+
+- [ ] Secret Box
+- [ ] Earning on Bets
+- [ ] How does the rook move?
+- [ ] Blueprint for Seating
+
+### Matrices
+
+- [ ] Weird Sum
+- [ ] Permutation on Rows and Columns
+- [ ] Random Mood
+
+### Probability
+
+- [ ] Red-Blue Shuffle
+- [ ] Dreamoon and Wifi
+- [ ] Archer
+- [ ] Little Pony and Expected Maximum
+
+---
+
+## Range Update Queries
+
+- [ ] Thor
+
+---
+
+## Graph Theory Basics
+
+### BFS & DFS
+
+- [ ] Two Buttons
+- [ ] Kefa and Park
+- [ ] Round Dance
+
+### Cycle Detection
+
+- [ ] Forest Program
+
+### Topological Sort
+
+- [ ] Fox and Names
+
+### Subtree / DFS Problems
+
+- [ ] Journey
+
+---
+
+## DSU + MST
+
+### Disjoint Set Union
+
+- [ ] Unforgivable Curse (Hard Version)
+- [ ] Roads Not Only in Berland
+
+---
+
+## Section 2 - Additional Practice
+
+- [ ] Labyrinth
+- [ ] Cyclic Components
+- [ ] Number of Simple Paths
+- [ ] Arrayland's Challenge
+- [ ] Lonely Mountain Dungeons
+- [ ] Turtle Mission: Robot and the Earthquake
+- [ ] Friendly Spiders
+- [ ] GCD and MST
+- [ ] Split Into Two Sets
+
+---
+
+# Section 3 - Advanced
+
+## String Hashing
+
+- [ ] Password
+- [ ] Compress Words
+- [ ] Tavas and Malekas
+
+---
+
+## Directed Graphs
+
+### Functional Graphs
+
+- [ ] Secret Santa
+
+### Strongly Connected Components
+
+- [ ] Checkposts
+- [ ] Scheme
+
+### 2-SAT
+
+- [ ] Problem H ±1
+
+### DP on DAGs
+
+- [ ] Pashmak and Graph
+
+---
+
+## Range Update Queries (Continued)
+
+- [ ] Xenia and Bit Operations
+- [ ] Merge Equals
+- [ ] Distinct Characters Queries
+
+---
+
+## Sparse Table
+
+- [ ] Ant Colony
+- [ ] Longest Regular Bracket Sequence
+- [ ] CGCDSSQ
+- [ ] Turn Off the TV
+
+---
+
+## Tree Algorithms
+
+### Tree Diameter
+
+- [ ] Gym Problem 1
+- [ ] Gym Problem 2
+- [ ] Minimize the Diameter
+
+### DP on Trees
+
+- [ ] Distance in Tree
+- [ ] Anton and Tree
+
+### Tree Queries
+
+- [ ] Gym Problem 3
+
+---
+
+## Section 3 - Additional Practice
+
+- [ ] Shuffling Songs
+- [ ] Sasha and Array
+- [ ] Analysis of Pathes in Functional Graph
+- [ ] Count Paths Queries
+- [ ] Civilization
