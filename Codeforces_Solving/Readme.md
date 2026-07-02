@@ -29,9 +29,9 @@ Progress: **8 / 123**
 
 - [x] Team
 - [x] Series of Crimes
-- [ ] Beautiful Matrix
-- [ ] I Wanna Be the Guy
-- [ ] Game Outcome
+- [x] Beautiful Matrix
+- [x] I Wanna Be the Guy
+- [x] Game Outcome
 
 ### Strings
 
