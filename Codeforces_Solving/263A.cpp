@@ -31,7 +31,7 @@ int main()
             {
                 row = i;
                 col = j;
-                count++;
+                // count++;
             }
         }
     }
